@@ -1,0 +1,15 @@
+# 数据集
+01/
+02/
+03/
+04/
+05/
+06/
+07/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
